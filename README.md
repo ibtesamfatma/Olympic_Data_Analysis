@@ -59,3 +59,35 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/olympic-data-analysis.git
    cd olympic-data-analysis
+
+2. **Open the project folder inside the visual studio code
+
+3. **Install the below given libery in command prompt or visual studio code terminal
+   ```bash
+   import streamlit as st
+   import pandas as pd
+   import plotly.express as px
+   import matplotlib.pyplot as plt
+   import seaborn as sns
+   import preprocessor,helper
+4. ** Afte installing the project required python libery we return use termianl to run our project using simple command.
+   ```bash
+   streamlit run app.py
+   
+5 .** After running  this line the streamlit create a localhost in your machine and run this web application using browser
+   - This is the localhost that streamlit is host our web application
+<img width="1440" alt="Screenshot 2024-08-19 at 8 43 00 PM" src="https://github.com/user-attachments/assets/458c1e75-4b7d-403c-ba34-cb10f5548307">
+
+<img width="1440" alt="Screenshot 2024-08-19 at 8 43 36 PM" src="https://github.com/user-attachments/assets/76520f82-7b8c-4cbb-819b-e484c9c18282">
+
+![image](https://github.com/user-attachments/assets/8e92cee2-9a14-48bb-86ca-c86802963f71)
+
+<img width="1440" alt="Screenshot 2024-08-19 at 8 51 48 PM" src="https://github.com/user-attachments/assets/19d3563c-74ee-46b6-8fc7-4c13e92e25a9">
+
+
+
+
+
+
+
+   
